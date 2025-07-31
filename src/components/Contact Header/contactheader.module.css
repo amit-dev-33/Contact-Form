@@ -1,0 +1,17 @@
+.contact_container{
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+h1{
+  font-weight: 900;
+  font-size: 45px;
+  margin: 14px 0;
+}
+
+p{
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #5A5959;
+  font-size: 16px;
+}

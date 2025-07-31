@@ -1,0 +1,44 @@
+.section{
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  gap: 40px;
+ 
+}
+
+.top_btn{
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.bottom_btn{
+ margin-top: 25px;
+}
+
+outline_btn{
+  background: white;
+}
+
+.form_input{
+ display: flex;
+ flex-direction: column;
+ margin: 12px 0;
+ position: relative;
+}
+
+label{
+  font-size: 14px;
+  position: relative;
+  top: 12px;
+  left:15px;
+  background: white;
+  padding: 0 10px;
+  max-width: fit-content;
+}
+
+input, textarea{
+  padding: 10px 15px;
+  font-size: 18px;
+}
+

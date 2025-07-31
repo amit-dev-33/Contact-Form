@@ -1,0 +1,28 @@
+.dark_btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  padding:6px 15px;
+  border-radius: 5px;
+  min-width: 260px;
+}
+
+.outline_btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  padding:6px 15px;
+  border-radius: 5px;
+  min-width: 220px;
+}
