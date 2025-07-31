@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/amit-dev-33/Contact-Form.git/static/css/main.ea9dae21.css",
+    "main.js": "/amit-dev-33/Contact-Form.git/static/js/main.48fb8fe9.js",
+    "static/media/Service 24_7-pana 1.svg": "/amit-dev-33/Contact-Form.git/static/media/Service 24_7-pana 1.adcfb36e23714ff36efe17cb03515dbb.svg",
+    "index.html": "/amit-dev-33/Contact-Form.git/index.html",
+    "main.ea9dae21.css.map": "/amit-dev-33/Contact-Form.git/static/css/main.ea9dae21.css.map",
+    "main.48fb8fe9.js.map": "/amit-dev-33/Contact-Form.git/static/js/main.48fb8fe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9dae21.css",
+    "static/js/main.48fb8fe9.js"
+  ]
+}
