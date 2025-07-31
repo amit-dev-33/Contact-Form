@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/amit-dev-33/Contact-Form/static/css/main.ea9dae21.css",
-    "main.js": "/amit-dev-33/Contact-Form/static/js/main.331368d5.js",
-    "static/media/Service 24_7-pana 1.svg": "/amit-dev-33/Contact-Form/static/media/Service 24_7-pana 1.adcfb36e23714ff36efe17cb03515dbb.svg",
-    "index.html": "/amit-dev-33/Contact-Form/index.html",
-    "main.ea9dae21.css.map": "/amit-dev-33/Contact-Form/static/css/main.ea9dae21.css.map",
-    "main.331368d5.js.map": "/amit-dev-33/Contact-Form/static/js/main.331368d5.js.map"
+    "main.css": "/Contact-Form/static/css/main.ea9dae21.css",
+    "main.js": "/Contact-Form/static/js/main.35aca3ae.js",
+    "static/media/Service 24_7-pana 1.svg": "/Contact-Form/static/media/Service 24_7-pana 1.adcfb36e23714ff36efe17cb03515dbb.svg",
+    "index.html": "/Contact-Form/index.html",
+    "main.ea9dae21.css.map": "/Contact-Form/static/css/main.ea9dae21.css.map",
+    "main.35aca3ae.js.map": "/Contact-Form/static/js/main.35aca3ae.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9dae21.css",
-    "static/js/main.331368d5.js"
+    "static/js/main.35aca3ae.js"
   ]
 }
